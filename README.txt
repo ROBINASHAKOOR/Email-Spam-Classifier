@@ -14,6 +14,10 @@ This project classifies email or SMS messages as **Spam** or **Not Spam (Ham)** 
 - Streamlit app for live testing
 
 ---
+For security reasons, the `.env` file is **NOT included** in this repository.
+
+Before running the project, create a `.env` file in the root directory with the following variables:
+
 
 ##  Files Included
 - `spam_classifier.ipynb` – Jupyter Notebook for training and evaluation
